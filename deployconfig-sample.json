@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "db_user":"",
+    "db_pass":""
+  },
+  "live": {
+    "db_user":"",
+    "db_pass":""
+  }
+}
